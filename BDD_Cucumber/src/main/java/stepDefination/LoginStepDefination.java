@@ -104,6 +104,8 @@ public class LoginStepDefination {
 		
 		driver.close();
 		//driver.quit();
+		System.out.println("suraj");
+				   
 	}
 
 }
